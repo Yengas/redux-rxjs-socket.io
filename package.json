@@ -2,7 +2,7 @@
   "name": "redux-rxjs-socket.io",
   "version": "1.0.0",
   "description": "connect socket.io to redux when using redux-observable",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Yengas/redux-rxjs-socket.io/issues"
   },
-  "homepage": "https://github.com/Yengas/redux-rxjs-socket.io#readme"
+  "homepage": "https://github.com/Yengas/redux-rxjs-socket.io#readme",
+  "peerDependencies": {
+    "rxjs": "^6.3.3"
+  }
 }

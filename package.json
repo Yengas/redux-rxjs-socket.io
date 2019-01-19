@@ -25,5 +25,8 @@
   "homepage": "https://github.com/Yengas/redux-rxjs-socket.io#readme",
   "peerDependencies": {
     "rxjs": "^6.3.3"
+  },
+  "dependencies": {
+    "rxjs": "^6.3.3"
   }
 }

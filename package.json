@@ -1,6 +1,6 @@
 {
   "name": "redux-rxjs-socket.io",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "connect socket.io to redux when using redux-observable",
   "main": "lib/index.js",
   "scripts": {
